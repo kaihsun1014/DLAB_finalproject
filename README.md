@@ -4,10 +4,9 @@ This repo is used to share our final project-Whack-a-mole to everyone.
 
 ## Preparation
 
-Download "finalproject.py," "music," and "img."
+Download "finalproject.zip," and you must have a "Nexy4 DDR," a screen with VGA, and a keypad to play.
 
 ## How to play
 
-Please run the code with python3, use mouse to click button "start," "exit," or "rule."  
-Complete at least 10 rows to win.  
+Please run the code with verilog, connect all tools correctly as the code says. play with keypad.
 Most important, have fun!
